@@ -1,3 +1,6 @@
+
+//Q.https://codeforces.com/contest/1920/problem/A
+
 import java.util.*;
 
 public class SatisfyingConstraints {
